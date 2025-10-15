@@ -27,7 +27,7 @@ import Faq from "./Faq";
 const Homepage2 = () => {
   // API Configuration
   // const API_BASE = "http://localhost:3000";
-  const API_BASE = "https://celestian-backend.vercel.app/api/getToken"
+  const API_BASE = "https://celestian-backend.vercel.app"
   // const API_BASE = "https://gtlzbtm5-3000.inc1.devtunnels.ms/";
   
 
